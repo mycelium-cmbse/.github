@@ -13,11 +13,11 @@ Mycelium connects engineers, models and tools so a team can build one shared, co
 
 | Project | What it does |
 | --- | --- |
-| 🌸 [**Bloom**](https://github.com/mycelium-cmbse/mycelium-bloom) | The web application where engineers create, explore and edit SysML v2 models. |
-| 🕸️ [**Fabric**](https://github.com/mycelium-cmbse/mycelium-fabric) | The SysML v2 back end that stores, versions and serves models. |
-| 🔨 [**Forge**](https://github.com/mycelium-cmbse/mycelium-forge) | The package registry for MBSE artefacts: publish, discover and reuse SysML v2, KerML, ECSS-E-TM-10-25 and Capella libraries. |
-| 🧵 [**Hypha**](https://github.com/mycelium-cmbse/mycelium-hypha) | The AI agent: a Claude Code plugin, VS Code extension and CLI that give grounded answers about the SysML v2 and KerML specifications and validate textual notation. |
-| 🧰 [**SDK**](https://github.com/mycelium-cmbse/mycelium-sdk) | The .NET software development kit shared by the Mycelium applications and available to build your own tools. |
+| [**Bloom**](https://github.com/mycelium-cmbse/mycelium-bloom) | The web application where engineers create, explore and edit SysML v2 models. |
+| [**Fabric**](https://github.com/mycelium-cmbse/mycelium-fabric) | The SysML v2 back end that stores, versions and serves models. |
+| [**Forge**](https://github.com/mycelium-cmbse/mycelium-forge) | The package registry for MBSE artefacts: publish, discover and reuse SysML v2, KerML, ECSS-E-TM-10-25 and Capella libraries. |
+| [**Hypha**](https://github.com/mycelium-cmbse/mycelium-hypha) | The AI agent: a Claude Code plugin, VS Code extension and CLI that give grounded answers about the SysML v2 and KerML specifications and validate textual notation. |
+| [**SDK**](https://github.com/mycelium-cmbse/mycelium-sdk) | The .NET software development kit shared by the Mycelium applications and available to build your own tools. |
 
 ### Foundations
 
